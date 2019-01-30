@@ -1,5 +1,5 @@
 # Overview
-Sentiment analysis with Devansh Nema and [Devansh Bhudolia](https://iamtrask.github.io). The main focus of this project is to understand how to create a neural network that can anlyse a review and classify it as bad or good.
+Sentiment analysis with Devansh Nema and [Devansh Bhudolia](https://github.com/bhudolia/Final-Year). The main focus of this project is to understand how to create a neural network that can anlyse a review and classify it as bad or good.
 It is split into several parts:
 - curating a data set.
 - training a a neural network
